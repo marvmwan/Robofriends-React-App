@@ -69,3 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Robofriends-React-App
+
+React App I created to learn React. Gets data from a Rest API which is parsed and displayed. Robofriends are able to be searched and are interactive.
+
+<img width="589" alt="Screen Shot 2022-03-11 at 5 48 03 PM" src="https://user-images.githubusercontent.com/47411070/157984767-748ea370-0622-4f12-82b0-3b72591949b9.png">
+<img width="1426" alt="Screen Shot 2022-03-11 at 5 47 19 PM" src="https://user-images.githubusercontent.com/47411070/157984794-077e167b-8c98-40f3-8bba-7d6a17d09676.png">
+
